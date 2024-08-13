@@ -1,0 +1,56 @@
+﻿<text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 UNTtite%20(1.3).xsd"
+ xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEI">
+<front>
+<pb n="i" ed="gammelslawsoftexas" /><pb ed="unknown" n="i" />
+<titlePage>
+<docTitle>
+<titlePart type="main"><b>THE L<smcap>AWS OF</smcap> T<smcap>EXAS</smcap> 1822-1897</b></titlePart>
+</docTitle>
+<titlePart type="desc"><i>Austin&#8217;s Colonization Law and Contract; Mexican Constitution of 1824; Federal Colonization Law; Colonization Laws of Coahuila and Texas; Colonization Law of State of Tamau<pc force="weak">-</pc><lb break="no" />lipas; Fredonian Declaration of Independence; Laws and Decrees, with Constitution of Coahuila and Texas; San Felipe Convention; Journals of the Consultation; Proceedings of the General Council; Goliad Declaration of Independence; Journals of the Convention at Washington; Ordinances and Decrees of the Consultation; Declaration of Independence; Constitution of the Repub<pc force="weak">-</pc><lb break="no" />lic; Laws, General and Special, of the Republic; Annexation Reso<pc force="weak">-</pc><lb break="no" />lution of the United States; Ratification of the same by Texas; Constitution of the United States; Constitutions of the State of Texas, with all the Laws, General and Special, passed thereunder, including Ordinances, Decrees, and Reso<pc force="weak">-</pc><lb break="no" />lutionst with the Constitution of the Confederate States and the Reconstruction Acts of Congress.</i></titlePart>
+<byline>COMPILED AND ARRANGED BY <docAuthor><b>H. P. N. GAMMEL</b></docAuthor> OF AUSTIN.</byline>
+<byline>WITH AN INTRODUCTION BY <docAuthor>C. W. RAINES</docAuthor>.</byline>
+<titlePart type="volume"><b>VOLUME: II.</b></titlePart>
+<figure xml:id="fig1">
+<graphic url="images/i_001.jpg"/>
+</figure>
+<docImprint>AUSTIN: T<smcap>HE</smcap> G<smcap>AMMEL</smcap> B<smcap>OOK</smcap> C<smcap>OMPANY</smcap>.</docImprint>
+<docDate>1898</docDate>
+</titlePage>
+<pb n="ii" ed="gammelslawsoftexas" /><pb ed="unknown" n="ii" />
+<pb n="iii" ed="gammelslawsoftexas" /><pb ed="unknown" n="iii" />
+<div1 type="contents">
+<head type="main"><b>CONTENTS.</b></head>
+<p>Page</p>
+<p>Third Congress, Republic of Texas, 1838-39. 1</p>
+<p>Fourth Congress, Republic of Texas, 1840. 175</p>
+<p>Fifth Congress, Republic of Texas, 1840-41. 465</p>
+<p>Proclamation by the President of the Republic of Texas. 655</p>
+<p>Sixth Congress, Republic of Texas, 1841-42. 673</p>
+<p>Sixth Congress, Private Acts and Joint Resolutions. 801</p>
+<p>Sixth Congress, special session, Republic of Texas, 1842. 809</p>
+<p>Sixth Congress, special session, Republic of Texas, Private</p>
+<p>Acts and Joint Resolutions, 1842. 820</p>
+<p>Seventh Congress, Republic of Texas, 1842-43. 821</p>
+<p>Seventh Congress, Republic of Texas, Private Acts and Joint</p>
+<p>Resolutions. 875</p>
+<p>Proclamations by the President of the Republic of Texas 878-912</p>
+<p>Eighth Congress, Republic of Texas, 1843-44. 913</p>
+<p>Eighth Congress, Private Acts and Joint Resolutions. 1041</p>
+<p>Ninth Congress, Republic of Texas, 1844—45. 1047</p>
+<p>Treaty of Peace Between Texas and Various Indian Tribes,. 1191</p>
+<p>Ninth Congress, extra session, Republic of Texas, 1845. 1197</p>
+<p>Joint Resolutions, Texas Consenting to Annexation, 1845. 1225</p>
+<p>Declaration of Independence. 1231</p>
+<p>Articles of Confederation. 1239</p>
+<p>Constitution of United States. 1249</p>
+<p>Constitution of the State of Texas, 1845. 1275</p>
+<p>Ordinance for Annexing Texas to the United States, 1845. 1303</p>
+<p>Ordinance Relating to Colonization Contracts, 1845. 1305</p>
+<p>First Legislature, State of Texas, 1846. 1307</p>
+<p>First Legislature, Private Laws, 1846. 1715</p>
+<pb n="iv" ed="gammelslawsoftexas" /><pb ed="unknown" n="iv" />
+</div1>
+</front>
+<body><p>Body content follows in Chapter_1-174.xml</p></body>
+</text>
